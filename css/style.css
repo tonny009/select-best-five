@@ -1,0 +1,76 @@
+.backgroundSetting {
+    height: 481px;
+    background-color: black;
+    margin-left: -6px;
+    padding: 0px;
+
+}
+
+.title-set {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 56px;
+    font-weight: 800;
+    color: rgb(250, 114, 17);
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+
+.para-title {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 26px;
+    width: 800px;
+    font-weight: 500;
+    left: 600px;
+}
+
+.head-image {
+    width: 850px;
+    margin-left: -190px;
+    top: 5px;
+    position: absolute;
+}
+
+.football-image {
+    width: 450px;
+    margin-right: 0px;
+    right: -1580px;
+    top: -59px;
+    position: relative;
+}
+
+.players {
+    width: 344px;
+    height: 290px;
+}
+
+.select-btn {
+    width: 100%;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.right-boxes {
+    padding: 20px;
+    background-color: black;
+    width: 400px;
+    height: 650px;
+}
+
+.selected-player-section {
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+ol li {
+    list-style: decimal;
+    /* padding-left: 10px; */
+}
